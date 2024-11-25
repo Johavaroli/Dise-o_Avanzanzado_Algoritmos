@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jun 09 16:02:46 2024
-
-@author: 
+@author: Johanna Varoli
 """
 import time
 import heapq
@@ -10,7 +8,7 @@ import heapq
 # definimos la clase resolver
 class PuzzleSolver:
     """
-    Esta clase representa un solucionador de puzzles.
+    Esta clase representa un solucionador de puzzle.
     
     """
     def __init__(self, estado_inicial, estado_objetivo):
